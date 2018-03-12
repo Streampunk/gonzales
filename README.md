@@ -2,6 +2,8 @@
 
 Network speed testing designed to move simulated frames of video over the network using various combinations of protocol and acceleration techniques. The protocols supported are UDP (unicast and multicast), HTTP and HTTPS.
 
+This repository is a virtual appendix to article: Cartwright R. I., _An Internet of Things (IoT) architecture for cloud-fit professional media workflow._ SMPTE Motion Imaging Journal. June 2018 (to appear).
+
 As well as comparing the protocols themselves, the scripts are designed to allow comparison of:
 
 * moving frames in series and in parallel with HTTP and HTTPS with a configurable number of parallel connections;

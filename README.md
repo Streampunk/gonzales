@@ -17,7 +17,7 @@ The results of tests carried out with these scripts are being used to inform the
 
 ## Installation
 
-Install the appropriate [Node.JS LTS] version for your platform and [node-gyp](https://github.com/nodejs/node-gyp) pre-requisites.
+Install the appropriate [Node.JS LTS](https://nodejs.org/) version for your platform and [node-gyp](https://github.com/nodejs/node-gyp) pre-requisites.
 
 Install the project from git:
 
@@ -66,7 +66,7 @@ Wireshark can be used to analyse the behaviour of generated streams. To do this 
 
 ## Results
 
-The results of tests carried out in the BBC's IP PoC lab in Belfast as included in Microsoft Excel document [gonzales_graphs.xlsx].
+The results of tests carried out in the BBC's IP PoC lab in Belfast as included in Microsoft Excel document [./gonzales_graphs.xlsx].
 
 ## Status, support and further development
 

@@ -68,7 +68,7 @@ Wireshark can be used to analyse the behaviour of generated streams. To do this 
 
 ## Results
 
-The results of tests carried out in the BBC's IP PoC lab in Belfast as included in Microsoft Excel document [./gonzales_graphs.xlsx].
+The results of tests carried out in the BBC's IP PoC lab in Belfast as included in Microsoft Excel document [gonzales_graphs.xlsx](./gonzales_graphs.xlsx).
 
 ## Status, support and further development
 
